@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinFormsApp2.2": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\white\\source\\repos\\WinFormsApp2.2\\WinFormsApp2.2\\Resources"
+    }
+  }
+}
